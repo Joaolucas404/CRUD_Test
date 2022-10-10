@@ -14,7 +14,7 @@ Visual Estudio ou Visual Estudio Code
 
 * Para iniciar a aplicação bastar executar o arquivo Loja.sln 
 
-* Depois de iniciar a solução bastar apertar o F5 para executar a aplição
+* Depois de iniciar a solução bastar apertar o F5 para executar a aplicação
 
 
 ## 🛠️ Construído com
