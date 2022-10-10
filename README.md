@@ -10,7 +10,7 @@ Visual Estudio ou Visual Estudio Code
 
 ### 🔧 Instalação
 
-* Para clonar o repositorio basta usar o comando git clone + link do repositorio no Prompt de Comando: git clone https://github.com/Joaolucas404/CRUD_Test.git
+* Para clonar o repositorio basta usar o comando no Prompt de Comando git clone + link do repositorio: git clone https://github.com/Joaolucas404/CRUD_Test.git
 
 * Para iniciar a aplicação bastar executar o arquivo Loja.sln 
 
