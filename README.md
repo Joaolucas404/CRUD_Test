@@ -6,9 +6,9 @@ Projeto de uma API , onde temos todos os controladores e métodos necessarios pa
 
 ### 📋 Pré-requisitos
 
-*[Visual Estudio](https://code.visualstudio.com/download)
-*[Visual Estudio Code](https://visualstudio.microsoft.com/pt-br/downloads/)
-*[Git](https://git-scm.com/downloads)
+* [Visual Estudio](https://code.visualstudio.com/download)
+* [Visual Estudio Code](https://visualstudio.microsoft.com/pt-br/downloads/)
+* [Git](https://git-scm.com/downloads)
 
 ### 🔧 Instalação
 
