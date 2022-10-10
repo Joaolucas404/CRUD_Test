@@ -12,7 +12,9 @@ Projeto de uma API , onde temos todos os controladores e métodos necessarios pa
 
 ### 🔧 Instalação
 
-* Para clonar o repositorio basta usar o comando no Prompt de Comando git clone + link do repositorio: git clone https://github.com/Joaolucas404/CRUD_Test.git
+* Para clonar o repositorio basta usar o comando no Prompt de Comando git clone + link do repositorio: 
+
+* git clone https://github.com/Joaolucas404/CRUD_Test.git
 
 * Para iniciar a aplicação bastar executar o arquivo Loja.sln 
 
